@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>FinderSpawnTab</key>
+				<true />
+				<key>FXEnableExtensionChangeWarning</key>
+				<false />
+				<key>NewWindowTarget</key>
+				<string>PfVo</string>
+				<key>NewWindowTargetPath</key>
+				<string>file:///</string>
+				<key>PayloadDisplayName</key>
+				<string>Finder</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.finder.152dee66-14ae-49dd-9ded-1871a44ceb08</string>
+				<key>PayloadType</key>
+				<string>com.apple.finder</string>
+				<key>PayloadUUID</key>
+				<string>7fa7ed47-6a50-4894-800c-fe7b0ece11e1</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ShowHardDrivesOnDesktop</key>
+				<true />
+				<key>ShowMountedServersOnDesktop</key>
+				<true />
+			</dict>
+			<dict>
+				<key>AppleShowAllExtensions</key>
+				<true />
+				<key>AppleShowScrollBars</key>
+				<string>Always</string>
+				<key>PayloadDisplayName</key>
+				<string>Global Preferences</string>
+				<key>PayloadIdentifier</key>
+				<string>.GlobalPreferences.c88cbb14-8a53-4e6d-b803-3886440c3fce</string>
+				<key>PayloadType</key>
+				<string>.GlobalPreferences</string>
+				<key>PayloadUUID</key>
+				<string>18fc242b-517f-4e3f-bf6c-b2de769020c3</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Finder Settings to be hosted on </string>
+		<key>PayloadDisplayName</key>
+		<string>BaconBit-Finder-Settings</string>
+		<key>PayloadIdentifier</key>
+		<string>Bacon-Unlimited.20220907-68a1-4a0e-89a3-9fae14894ec6</string>
+		<key>PayloadOrganization</key>
+		<string>Bacon Unlimited Flavor Force</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>8319d441-bc70-413e-9538-074a22f4575a</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>5</integer>
+	</dict>
+</plist>
