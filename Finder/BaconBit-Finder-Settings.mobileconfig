@@ -7,8 +7,8 @@
 			<dict>
 				<key>FinderSpawnTab</key>
 				<true />
-				<key>FXEnableExtensionChangeWarning</key>
-				<false />
+				<key>FXDefaultSearchScope</key>
+				<string>SCev</string>
 				<key>NewWindowTarget</key>
 				<string>PfVo</string>
 				<key>NewWindowTargetPath</key>
@@ -20,7 +20,7 @@
 				<key>PayloadType</key>
 				<string>com.apple.finder</string>
 				<key>PayloadUUID</key>
-				<string>7fa7ed47-6a50-4894-800c-fe7b0ece11e1</string>
+				<string>ec90a99e-2424-4619-84cb-c877c40a2841</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>ShowHardDrivesOnDesktop</key>
@@ -46,7 +46,19 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>Finder Settings to be hosted on </string>
+		<string>Finder Settings to be hosted on Bacon Unlimited GitHub
+https://github.com/Bacon-Unlimited/apple-mdm-profiles/blob/main/Finder/BaconBit-Finder-Settings.mobileconfig
+https://github.com/Bacon-Unlimited/bacon-bits-examples/tree/main/Creating%20an%20MDM%20Profile
+
+Changes
+- Open folders in finder tabs instead of new windows
+- Show internal drives, and connected servers, on desktop
+- New Finder window shows "Volume"
+- Finder opens Volume at: file:/// (root)
+- Open Folders in Finder tabs instead of new windows
+- When performing a search: "Search this Mac" instead of: current folder or last search scope
+- Always show scroll bars on windows
+- Show all filename extensions</string>
 		<key>PayloadDisplayName</key>
 		<string>BaconBit-Finder-Settings</string>
 		<key>PayloadIdentifier</key>
@@ -56,7 +68,7 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>8319d441-bc70-413e-9538-074a22f4575a</string>
+		<string>4efca712-f10d-4c92-9827-b8975fc5d87d</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>TargetDeviceType</key>
